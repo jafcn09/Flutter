@@ -1,4 +1,4 @@
-#Thu Jul 06 15:32:58 COT 2023
+#Fri Jul 07 08:33:30 COT 2023
 base.0=C\:\\Users\\jafet\\OneDrive\\Documentos\\flutter\\06\\cineapp\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
