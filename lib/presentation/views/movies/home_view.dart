@@ -1,10 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+
 import 'package:cinemapedia/presentation/providers/providers.dart';
 import 'package:cinemapedia/presentation/widgets/widgets.dart';
 
+
 class HomeView extends ConsumerStatefulWidget {
-  const HomeView({super.key});
+  const HomeView({ super.key });
 
   @override
   HomeViewState createState() => HomeViewState();
@@ -57,8 +59,8 @@ class HomeViewState extends ConsumerState<HomeView> {
               
                     MovieHorizontalListview(
                       movies: nowPlayingMovies,
-                      title: 'Estreno',
-                      subTitle: 'Hoy',
+                      title: 'En cine',
+                   
                       loadNextPage: () =>ref.read(nowPlayingMoviesProvider.notifier).loadNextPage()
                       
                     ),
@@ -80,7 +82,7 @@ class HomeViewState extends ConsumerState<HomeView> {
                     MovieHorizontalListview(
                       movies: topRatedMovies,
                       title: 'Mejor calificadas',
-            
+                     
                       loadNextPage: () =>ref.read(topRatedMoviesProvider.notifier).loadNextPage()
                     ),
 
