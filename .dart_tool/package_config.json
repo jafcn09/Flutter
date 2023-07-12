@@ -3,15 +3,15 @@
   "packages": [
     {
       "name": "_fe_analyzer_shared",
-      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/_fe_analyzer_shared-61.0.0",
+      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/_fe_analyzer_shared-54.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
     {
       "name": "analyzer",
-      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/analyzer-5.13.0",
+      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/analyzer-5.6.0",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "2.17"
     },
     {
       "name": "animate_do",
@@ -21,9 +21,9 @@
     },
     {
       "name": "args",
-      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/args-2.4.2",
+      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/args-2.4.0",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "2.18"
     },
     {
       "name": "async",
@@ -57,9 +57,9 @@
     },
     {
       "name": "build_resolvers",
-      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/build_resolvers-2.2.1",
+      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/build_resolvers-2.2.0",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "2.18"
     },
     {
       "name": "build_runner",
@@ -69,7 +69,7 @@
     },
     {
       "name": "build_runner_core",
-      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/build_runner_core-7.2.7+1",
+      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/build_runner_core-7.2.7",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
@@ -81,7 +81,7 @@
     },
     {
       "name": "built_value",
-      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/built_value-8.6.1",
+      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/built_value-8.4.3",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -99,9 +99,9 @@
     },
     {
       "name": "checked_yaml",
-      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/checked_yaml-2.0.3",
+      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/checked_yaml-2.0.2",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "2.18"
     },
     {
       "name": "clock",
@@ -111,9 +111,9 @@
     },
     {
       "name": "code_builder",
-      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/code_builder-4.5.0",
+      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/code_builder-4.4.0",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "2.17"
     },
     {
       "name": "collection",
@@ -129,15 +129,15 @@
     },
     {
       "name": "crypto",
-      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/crypto-3.0.3",
+      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/crypto-3.0.2",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "2.14"
     },
     {
       "name": "dart_style",
-      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/dart_style-2.3.2",
+      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/dart_style-2.2.4",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "2.17"
     },
     {
       "name": "dartx",
@@ -147,7 +147,7 @@
     },
     {
       "name": "dio",
-      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/dio-5.2.1+1",
+      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/dio-5.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.15"
     },
@@ -159,7 +159,7 @@
     },
     {
       "name": "ffi",
-      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/ffi-2.0.2",
+      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/ffi-2.0.1",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
@@ -183,19 +183,25 @@
     },
     {
       "name": "flutter_dotenv",
-      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_dotenv-5.1.0",
+      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_dotenv-5.0.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
-      "name": "flutter_lints",
-      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_lints-2.0.2",
+      "name": "flutter_inappwebview",
+      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "flutter_lints",
+      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_lints-2.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
     },
     {
       "name": "flutter_riverpod",
-      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_riverpod-2.3.6",
+      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_riverpod-2.2.0",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
@@ -225,21 +231,21 @@
     },
     {
       "name": "glob",
-      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/glob-2.1.2",
+      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/glob-2.1.1",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "2.15"
     },
     {
       "name": "go_router",
-      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/go_router-6.5.9",
+      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/go_router-6.0.9",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "2.17"
     },
     {
       "name": "graphs",
-      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/graphs-2.3.1",
+      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/graphs-2.2.0",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "2.12"
     },
     {
       "name": "http_multi_server",
@@ -255,7 +261,7 @@
     },
     {
       "name": "intl",
-      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/intl-0.18.1",
+      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/intl-0.18.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -291,9 +297,9 @@
     },
     {
       "name": "json_annotation",
-      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/json_annotation-4.8.1",
+      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/json_annotation-4.8.0",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "2.18"
     },
     {
       "name": "lints",
@@ -303,9 +309,9 @@
     },
     {
       "name": "logging",
-      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/logging-1.2.0",
+      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/logging-1.1.1",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "2.18"
     },
     {
       "name": "matcher",
@@ -405,31 +411,31 @@
     },
     {
       "name": "pub_semver",
-      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/pub_semver-2.1.4",
+      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/pub_semver-2.1.3",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
     {
       "name": "pubspec_parse",
-      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/pubspec_parse-1.2.3",
+      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/pubspec_parse-1.2.1",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "2.14"
     },
     {
       "name": "riverpod",
-      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/riverpod-2.3.6",
+      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/riverpod-2.2.0",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
     {
       "name": "shelf",
-      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/shelf-1.4.1",
+      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/shelf-1.4.0",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
     {
       "name": "shelf_web_socket",
-      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/shelf_web_socket-1.0.4",
+      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/shelf_web_socket-1.0.3",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
@@ -441,7 +447,7 @@
     },
     {
       "name": "source_gen",
-      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/source_gen-1.3.2",
+      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/source_gen-1.2.7",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
@@ -507,9 +513,9 @@
     },
     {
       "name": "typed_data",
-      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/typed_data-1.3.2",
+      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/typed_data-1.3.1",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "2.12"
     },
     {
       "name": "vector_math",
@@ -525,9 +531,9 @@
     },
     {
       "name": "web_socket_channel",
-      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/web_socket_channel-2.4.0",
+      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/web_socket_channel-2.3.0",
       "packageUri": "lib/",
-      "languageVersion": "2.15"
+      "languageVersion": "2.12"
     },
     {
       "name": "win32",
@@ -549,9 +555,15 @@
     },
     {
       "name": "yaml",
-      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/yaml-3.1.2",
+      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/yaml-3.1.1",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "youtube_player_flutter",
+      "rootUri": "file:///C:/Users/jafet/AppData/Local/Pub/Cache/hosted/pub.dev/youtube_player_flutter-8.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
     },
     {
       "name": "cinemapedia",
@@ -560,7 +572,7 @@
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2023-07-11T21:55:40.516175Z",
+  "generated": "2023-07-12T21:55:58.624167Z",
   "generator": "pub",
   "generatorVersion": "2.19.6"
 }
